@@ -1,0 +1,101 @@
+body {
+    font-family: "Epunda Sans", sans-serif;
+    margin: 0%;
+}
+
+header,
+footer {
+    background-color: #013146;
+    color: white;
+    padding: 2%;
+    text-align: center;
+}
+
+main {
+    margin: 1%;
+}
+
+section {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+a {
+    color: #FCB11D;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: 10%;
+}
+
+h1,
+h2 {
+    font-family: "Signika", sans-serif;
+    font-weight: 0;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.lead {
+    font-size: 140%;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.register a {
+    background-color: red;
+    color: white;
+    padding: 1%;
+}
+
+.schedule p {
+    padding: 1%;
+    margin: 0
+}
+
+.odd {
+    background-color: #BCF7FF;
+}
+
+.even {
+    background-color: #7DE7F7;
+}
+
+
+
+/* 
+.epunda-sans-<uniquifier> {
+  font-family: "Epunda Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+/*
+
+.signika-<uniquifier> {
+  font-family: "Signika", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+
+
+
+/* 
+  font-family: "Signika", sans-serif;
+  font-family: "Epunda Sans", sans-serif; 
+
+  blue: 013146
+  lt blue: BCF7FF
+  dk blue: 7DE7F7
+  red: C52804
+  yellow: FCB11D
+  
+  */
