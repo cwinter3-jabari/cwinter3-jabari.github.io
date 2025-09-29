@@ -1,0 +1,36 @@
+body {
+    font-family: "Libre-baskerville", serif;
+    margin: 1%;
+}
+
+h1,
+h2 {
+    margin: 2%;
+    text-align: center;
+}
+
+h3 {
+    margin: 1%;
+}
+
+footer {
+    text-align: center;
+}
+
+/*.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
