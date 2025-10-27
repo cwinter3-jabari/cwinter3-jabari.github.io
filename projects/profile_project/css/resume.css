@@ -1,0 +1,37 @@
+body {
+    font-family: Newsreader, serif;
+    text-align: center;
+    margin: 3%;
+    background-color: #bec2cb;
+}
+
+
+h1 {
+    font-size: 300%;
+    color: #FFBF00;
+}
+
+
+h2 {
+    color: #D79334;
+    font-size: 250%;
+}
+
+p {
+    color: black;
+}
+
+
+
+
+
+
+
+
+/*.newsreader-<uniquifier> {
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  

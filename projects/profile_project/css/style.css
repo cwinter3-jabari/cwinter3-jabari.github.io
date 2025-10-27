@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+p {
+    margin: 1%;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+ul,
+li {
+    text-align: center;
+    margin: 0%;
+}
+
+
+img {
+    text-align: center;
+}
+
+
+
+
+/*.newsreader-<uniquifier> {
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  

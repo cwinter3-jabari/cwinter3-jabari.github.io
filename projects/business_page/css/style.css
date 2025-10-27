@@ -1,20 +1,20 @@
 body {
-    font-family: "Libre-baskerville", serif;
-    margin: 1%;
+  font-family: "Libre-baskerville", serif;
+  margin: 1%;
 }
 
 h1,
 h2 {
-    margin: 2%;
-    text-align: center;
+  margin: 2%;
+  text-align: center;
 }
 
 h3 {
-    margin: 1%;
+  margin: 1%;
 }
 
 footer {
-    text-align: center;
+  text-align: center;
 }
 
 /*.libre-baskerville-regular {
