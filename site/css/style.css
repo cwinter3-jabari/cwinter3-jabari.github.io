@@ -1,0 +1,39 @@
+body{
+    font-family: 'Newsreader', serif;
+    background-color: #bec2cb;
+    text-align: center;
+}
+
+header,
+footer{
+    margin: 3%;
+}
+
+h3,
+a{
+color: #D79334;
+}
+
+h1{
+    font-weight: 600;
+}
+
+footer a{
+    display: block;
+    color: black;
+}
+
+
+button{
+    background-color: orange;
+    border: none;
+}
+
+
+.resume h3{
+    font-size: 35px;
+}
+
+section{
+    margin: 5%;
+}
